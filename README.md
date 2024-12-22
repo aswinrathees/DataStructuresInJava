@@ -1,1 +1,1 @@
-# DataStructuresInJava
+# DataStructuresInJavaBasics
